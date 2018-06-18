@@ -1,0 +1,13 @@
+qua model nhận câu truy vấn
+xong thì qua  Controller nhận data từ câu truy vấn đó .
+qua View để  in nó ra bằng forech
+
+
+Cách làm link thân thiện :https://www.youtube.com/watch?v=Qavbzr22OKs
+Quy trình :
+1. Làm cho thanh nvabar  tước. hoặc trang menu .
+^: Bắt đầu 1 chuỗi
+$ kết thúc 1 chuỗi .
+tập luật như sau :
+khởi tạo 1 biến chèn vào $1
+^([])$
